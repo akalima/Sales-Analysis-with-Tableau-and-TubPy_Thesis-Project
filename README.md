@@ -1,5 +1,5 @@
 # Sales Analysis with Tableau and TubPy_Thesis Project
-A thesis project for Business Informatics BSc. The project visualizes sales data for 2007-2009 and explores Python integration into Tableau using TabPy Server. It includes three dashboards with varying levels of detail:
+A thesis project for Business Informatics BSc. The project visualizes sales data from 2007-2009 and explores Python integration into Tableau using TabPy Server. It includes three dashboards with varying levels of detail:
 - Overall Picture: for managers and supervisors;
 - Discount Impact Analysis: for further analysis and strategy development; 
 - Batch Analysis: for finding insights in real time (with the use of TabPy).
